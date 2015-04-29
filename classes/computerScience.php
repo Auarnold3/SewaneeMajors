@@ -20,5 +20,9 @@ Departmental honors may be conferred on students considered worthy of distinctio
 3) an original project, usually as part of a 444 computer science elective course, and oral defense or presentation of the work;
 <br>
 4) additional course work in computer science beyond the minimum requirement.
+<?php
+  require_once 'scripts.php';
+  reviews("Computer Science");
+?>
   </body>
   </html>

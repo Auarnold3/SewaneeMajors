@@ -15,17 +15,18 @@
 <div id="topBox"><table cellpadding="20px"><tr><td id="Text">Sewanee Majors and Minors</td>
 <td> <a href="Majors.html" id="Majors">Majors</a></td>
 <td> <a href="Forum.html" id="Forum">Forum</a></td>
-</tr></table>
+<td>
 <a href="signUp.html" id="sign"></a>
 <input type="button" value="Sign Up" id="signUp"
-       onclick="window.open(sign,signUp.html,'width=400,height=300');return false;">
+       onclick="window.open(sign,signUp.html,'width=400,height=300');return false;"></td>
+<td><a href="log.html" id="log"></a>
 <input type="button" value="Sign In" id="signIn"
-       onclick="signIn.html'">
-
+       onclick="window.open(log,log.html,'width=400,height=300');return false;"></td>
+</tr></table>
 </div>
 <div id="textIndexBox">Which Major are You Going to Choose?</div>
 <div id="textIndexBox2">Click On a Link Above for Advice</div>
-<div id="referenceBox">First Reference: <a href="http://alistapart.com/article/creating-style-guides">Creating Style Guides</a><br>
+<!--<div id="referenceBox">First Reference: <a href="http://alistapart.com/article/creating-style-guides">Creating Style Guides</a><br>
 This website goes over the basics of creating a style guide. The website begins by talking about how <br>
 the developer should use patterns in their website as well as making thier website interactive. <br>
 This refernece also advises us to keep the named of id's and classes simple in order to make maintenance easier to perform.<br>
@@ -41,7 +42,7 @@ This guide stresses the importance of typography and claims that typography is 9
 as a guide to better the way we present our typing on the wbsite by making use of better color-palettes than we already have. <br>
 We plan to use this guide to make a uniform pattern for our website and all of its subpages so that there is continuity. <br>
 This website stresses the importance of continuity when making a website and claims that it increases the effectiveness of a website. <br>
-It also says that a website that lacks continuity can throw a reader off.
+It also says that a website that lacks continuity can throw a reader off.-->
 
       </div>
   </body>

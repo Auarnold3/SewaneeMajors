@@ -21,4 +21,5 @@ if(isset($_POST['email']) && isset($_POST['password'])){
     }
 }
 die(" Username/Password failure");
+echo " Please try again.";
 ?>
